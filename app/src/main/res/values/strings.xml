@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ThousandCourses</string>
+
+    <string name="login_header">Вход</string>
+
+    <string name="login_email">Email</string>
+    <string name="login_email_hint">example@gmail.com</string>
+
+    <string name="login_password">Пароль</string>
+    <string name="login_password_hint">Введите пароль</string>
+
+    <string name="login_login">Вход</string>
+    <string name="login_register">Нет аккаунта? <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Регистрация</a></string>
+    <string name="login_forgot_password"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Забыл пароль</a></string>
+    <string name="login_to_vk">Login to VK</string>
+    <string name="login_to_ok">Login to OK</string>
+
+    <string name="bottom_nav_home">Главная</string>
+    <string name="bottom_nav_favorite">Избранное</string>
+    <string name="bottom_nav_account">Аккаунт</string>
+
+    <string name="search_hint">Search courses…</string>
+
+    <string name="course_rating">NaN</string>
+    <string name="course_start_date">01.01.1970</string>
+    <string name="course_title">TITLE_PLACEHOLDER</string>
+    <string name="course_desc_short">DESC_SHORT_PLACEHOLDER\nDESC_SHORT_PLACEHOLDER</string>
+    <string name="course_price">NaN</string>
+    <string name="course_more">Подробнее</string>
+
+    <string name="sort">По дате добавления</string>
+</resources>
